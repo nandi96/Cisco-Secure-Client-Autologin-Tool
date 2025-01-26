@@ -18,3 +18,7 @@ The script is provided "as is" without any warranties. Use at your own risk.
 The author is not liable for any direct, indirect, incidental, special, exemplary, or consequential damages. 
 You acknowledge that any harm, whether intentional or accidental, is your own responsibility. 
 By continuing to use this script, you automatically agree to these terms and waive any claims for damages against the author.
+
+#### Credit to [paveleremin](https://github.com/paveleremin/cisco-anyconnect-vpn-save-password) for creating the original script
+
+<a href="https://www.buymeacoffee.com/nandi96" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
