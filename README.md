@@ -2,10 +2,6 @@
 
 Magyar verzió
 
-Github forráskód: https://github.com/nandi96/Cisco-Secure-Client-Autologin-Tool
-
-Cisco Secure Client 5 Windows letöltés: https://github.com/nandi96/Cisco-Secure-Client-Autologin-Tool/raw/d7d783174a14d3f8eb05d9239e7e2cae479bd68e/cisco-secure-client-win-5.1.6.103-core-vpn-predeploy-k9.msi
-
 Szerző: nandi96
 
 Licensz: AGPL-3.0
