@@ -1,6 +1,6 @@
 Dim PASSWORD
 
-PASSWORD = "YOUR_PASSWORD"
+PASSWORD = "JELSZÓ"
 
 Set WshShell = WScript.CreateObject("WScript.Shell")
 
