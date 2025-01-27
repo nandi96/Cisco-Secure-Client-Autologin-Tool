@@ -1,24 +1,34 @@
-# Cisco Secure Client Autologin Tool
-for Cisco Secure Client 5 VPN (only Windows version)
+# Cisco VPN Automatikus bejelentkezés
 
-This simple script will save you the hassle of constantly typing your password.
+Magyar verzió
 
-## Instruction for prepare
+Github forráskód: https://github.com/nandi96/Cisco-Secure-Client-Autologin-Tool
 
-1. Copy file Cisco.vbs to your computer
-2. Edit it and replace YOUR_PASSWORD with your password (whitin the two quotation mark) at line 3.
-3. If you need, edit the system drive letter (C:) to another at line 7.
-4. Save the modified file.
-5. Run the VBScript and enjoy!
+Cisco Secure Client 5 Windows letöltés: https://github.com/nandi96/Cisco-Secure-Client-Autologin-Tool/raw/d7d783174a14d3f8eb05d9239e7e2cae479bd68e/cisco-secure-client-win-5.1.6.103-core-vpn-predeploy-k9.msi
 
-### Disclaimer!
+Szerző: nandi96
 
-By using this script, you agree that the author is not responsible for any damage or loss resulting from its use. 
-The script is provided "as is" without any warranties. Use at your own risk. 
-The author is not liable for any direct, indirect, incidental, special, exemplary, or consequential damages. 
-You acknowledge that any harm, whether intentional or accidental, is your own responsibility. 
-By continuing to use this script, you automatically agree to these terms and waive any claims for damages against the author.
+Licensz: AGPL-3.0
 
-#### Credit to [paveleremin](https://github.com/paveleremin/cisco-anyconnect-vpn-save-password) for creating the original script
 
-<a href="https://www.buymeacoffee.com/nandi96" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+# Leírás
+Használja ezt a VB Script-et az automatikus bejelentkezéshez a Cisco Secure Client Windows rendszeren, anélkül, hogy minden alkalommal be kellene írnia a jelszót.
+
+# Előkészítés
+1. Mentse a Cisco.vbs fájlt a számítógépére,
+2. Jobb klikk - Szerkesztés a jegyzettömbben / Jobb klikk - Társítás - Jegyzettömb,
+3. Írja be a jelszavát a JELSZÓ helyére a két idézőjel közé a 3. sorban,
+4. Mentse el a módosított fájlt.
+
+# Használat
+Az automatikus Cisco VPN bejelentkezéshez minden alkalommal a Cisco.vbs fájlt kell megnyitnia.
+Megnyitást követően a szkript lefut, és automatikusan megadja az előre beállított jelszót, majd kiépíti a VPN kapcsolatot.
+
+# Jogi nyilatkozat
+Jelen forráskód az AGPL-3.0 licensz alatt van.
+A szkript használatával Ön elfogadja, hogy a szerző nem vállal felelősséget a használatából eredő károkért vagy veszteségekért. 
+A szkriptet "ahogyan" biztosítjuk, mindenféle garancia nélkül. 
+Használja saját felelősségére. 
+A szerző nem vállal felelősséget semmilyen közvetlen, közvetett, véletlen, különleges, példaértékű vagy következményes kárért. 
+Ön tudomásul veszi, hogy bármilyen kár, akár szándékos, akár véletlen, a saját felelőssége. 
+A szkript használatának folytatásával Ön automatikusan elfogadja ezeket a feltételeket, és lemond a szerzővel szembeni kártérítési igényekről.
